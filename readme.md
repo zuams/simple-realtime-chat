@@ -1,1 +1,1 @@
-projek ini untuk lebih dalam mengetahui tentang websocket
+projek ini untuk dasar saya mengetahui websocket
